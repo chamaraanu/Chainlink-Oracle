@@ -1,0 +1,23 @@
+{
+  "name": "chainlink-oracle",
+  "version": "1.0.0",
+  "description": "chainlink oracle",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamaraanu/Chainlink-Oracle.git"
+  },
+  "author": "Chamara Otunu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamaraanu/Chainlink-Oracle/issues"
+  },
+  "homepage": "https://github.com/chamaraanu/Chainlink-Oracle#readme",
+  "devDependencies": {
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "hardhat": "^2.12.6"
+  }
+}
